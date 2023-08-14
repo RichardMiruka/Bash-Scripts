@@ -10,7 +10,7 @@ To install the "commit" command, follow these steps:
 
 1. Download the script file to your computer.
 
-2. Move the script to a directory in your $PATH. You can check your $PATH by running the following command: echo $PATH
+2. Move the script to a directory in your ``` $PATH. ``` You can check your ```$PATH``` by running the following command: ```echo $PATH```
 
 3. Make the script executable by running the following command: ``` chmod +x commit ```
 
