@@ -13,3 +13,5 @@ Download the script file to your computer.
 Move the script to a directory in your $PATH. You can check your $PATH by running the following command: echo $PATH
 
 Make the script executable by running the following command: chmod +x commit
+
+## Usage
