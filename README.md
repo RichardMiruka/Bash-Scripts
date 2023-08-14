@@ -20,6 +20,6 @@ To use the "commit" command, follow these steps:
 
 Navigate to the Git repository that contains the file or directory you want to commit changes to.
 
-Run the following command, replacing path/to/file with the path to the file or directory that has been changed: commit path/to/file "optional commit message" If you don't provide an optional commit message, the script will use a default message that includes the name of the directory containing the file.
+Run the following command, replacing path/to/file with the path to the file or directory that has been changed: ```commit path/to/file "optional commit message"``` If you don't provide an optional commit message, the script will use a default message that includes the name of the directory containing the file.
 
 The script will automatically commit the changes and push them to the remote repository.
